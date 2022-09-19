@@ -6,13 +6,13 @@ Projeto desenvolvido durante a nlw esports.
 
 ## Retorna todos os games
 
-```http
+```
   GET /games
 ```
 
 ## Retorna anúncios por jogo
 
-```http
+```
   GET /games/:id/ads
 ```
 
@@ -22,7 +22,7 @@ Projeto desenvolvido durante a nlw esports.
 
 ## Cria um anúncio
 
-```http
+```
   POST /games/:id/ads
 ```
 
@@ -47,17 +47,13 @@ Exemplo de json:
 
 ## Retorna discórdia por anúncio
 
-```http
+```
   GET /ads/:id/discord
 ```
 
 | Parâmetro | Descrição       |
 | :-------- | :-------------- |
 | `id`      | O ID do anúncio |
-
-## Stack utilizada
-
-**Back-end:** Node, express, typescript, prisma, sqlite.
 
 Rodar projeto
 
