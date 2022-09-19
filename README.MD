@@ -2,10 +2,6 @@
 
 Projeto desenvolvido durante a nlw esports.
 
-# NLW esports server
-
-Projeto desenvolvido durante a nlw esports.
-
 ## Documentação da API
 
 ## Retorna todos os games
